@@ -12,8 +12,13 @@ Para cada caso de entrada imprima uma mensagem indicando se o segundo valor enca
 
 ### Explicação
 Exemplo de Entrada	                    │  Exemplo de Saída
+
 4                                       │  *Quantidade de Testes*
+
 56234523485723854755454545478690 78690  │  encaixa 
+
 5434554 543                             │  não encaixa
+
 1243 1243                               │  encaixa
+
 54 64545454545454545454545454545454554  │  não encaixa
