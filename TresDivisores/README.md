@@ -12,6 +12,7 @@ A saída consistirá em um tipo booleano: true ou false.
 
 ### Explicação
 Entrada	 │   Saída
-2	     │   false
+
+2	       │   false
 
 Explicação: 2 possui apenas dois divisores: 1 e 2.
