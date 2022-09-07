@@ -1,0 +1,15 @@
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\bin\Debug\net6.0\EncaixaOuNao.exe
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\bin\Debug\net6.0\EncaixaOuNao.deps.json
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\bin\Debug\net6.0\EncaixaOuNao.runtimeconfig.json
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\bin\Debug\net6.0\EncaixaOuNao.dll
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\bin\Debug\net6.0\EncaixaOuNao.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.csproj.AssemblyReference.cache
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.AssemblyInfoInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.AssemblyInfo.cs
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.dll
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\refint\EncaixaOuNao.dll
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\EncaixaOuNao.genruntimeconfig.cache
+C:\Workspace\Desafios-Bootcamps-Dio\EncaixaOuNao\obj\Debug\net6.0\ref\EncaixaOuNao.dll

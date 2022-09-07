@@ -1,0 +1,15 @@
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\bin\Debug\net6.0\TresDivisores.exe
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\bin\Debug\net6.0\TresDivisores.deps.json
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\bin\Debug\net6.0\TresDivisores.runtimeconfig.json
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\bin\Debug\net6.0\TresDivisores.dll
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\bin\Debug\net6.0\TresDivisores.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.csproj.AssemblyReference.cache
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.AssemblyInfoInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.AssemblyInfo.cs
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.dll
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\refint\TresDivisores.dll
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\TresDivisores.genruntimeconfig.cache
+C:\Workspace\Desafios-Bootcamps-Dio\TresDivisores\obj\Debug\net6.0\ref\TresDivisores.dll

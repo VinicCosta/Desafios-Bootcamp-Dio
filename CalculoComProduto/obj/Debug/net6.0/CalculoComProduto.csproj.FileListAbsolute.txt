@@ -1,0 +1,15 @@
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\bin\Debug\net6.0\CalculoComProduto.exe
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\bin\Debug\net6.0\CalculoComProduto.deps.json
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\bin\Debug\net6.0\CalculoComProduto.runtimeconfig.json
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\bin\Debug\net6.0\CalculoComProduto.dll
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\bin\Debug\net6.0\CalculoComProduto.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.csproj.AssemblyReference.cache
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.AssemblyInfoInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.AssemblyInfo.cs
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.dll
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\refint\CalculoComProduto.dll
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.pdb
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\CalculoComProduto.genruntimeconfig.cache
+C:\Workspace\Desafios-Bootcamps-Dio\CalculoComProduto\obj\Debug\net6.0\ref\CalculoComProduto.dll
