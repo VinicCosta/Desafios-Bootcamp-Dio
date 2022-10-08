@@ -7,3 +7,9 @@ Repositório criado para adicionar os Desafios de código realizados no Bootcamp
 2 - Encaixa ou Não;
 
 3 - Três divisores;
+
+4 - Elemento Majoritário;
+
+5 - Aumento de Salário;
+
+6 - Corrida de Tartarugas;
