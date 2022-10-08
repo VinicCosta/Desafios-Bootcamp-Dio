@@ -1,0 +1,15 @@
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\bin\Debug\net6.0\ElementoMajoritario.exe
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\bin\Debug\net6.0\ElementoMajoritario.deps.json
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\bin\Debug\net6.0\ElementoMajoritario.runtimeconfig.json
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\bin\Debug\net6.0\ElementoMajoritario.dll
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\bin\Debug\net6.0\ElementoMajoritario.pdb
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.csproj.AssemblyReference.cache
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.AssemblyInfoInputs.cache
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.AssemblyInfo.cs
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.dll
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\refint\ElementoMajoritario.dll
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.pdb
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ElementoMajoritario.genruntimeconfig.cache
+C:\Workspace\Desafios-Bootcamp-Dio\ElementoMajoritario\obj\Debug\net6.0\ref\ElementoMajoritario.dll

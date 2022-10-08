@@ -1,0 +1,15 @@
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\bin\Debug\net6.0\CorridaDeTartatugas.exe
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\bin\Debug\net6.0\CorridaDeTartatugas.deps.json
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\bin\Debug\net6.0\CorridaDeTartatugas.runtimeconfig.json
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\bin\Debug\net6.0\CorridaDeTartatugas.dll
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\bin\Debug\net6.0\CorridaDeTartatugas.pdb
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.csproj.AssemblyReference.cache
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.AssemblyInfoInputs.cache
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.AssemblyInfo.cs
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.dll
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\refint\CorridaDeTartatugas.dll
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.pdb
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\CorridaDeTartatugas.genruntimeconfig.cache
+C:\Workspace\Desafios-Bootcamp-Dio\CorridaDeTartatugas\obj\Debug\net6.0\ref\CorridaDeTartatugas.dll
